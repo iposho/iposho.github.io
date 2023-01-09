@@ -1,5 +1,5 @@
 <a href="https://kuzyak.in" align="center">
-    <img src="https://raw.githubusercontent.com/iposho/iposho/main/images/logo.jpg" alt="Pavel Kuzyakin" />
+    <img src="images/logo.jpg" alt="Pavel Kuzyakin" />
 </a>
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=iposho&style=flat-square"></h2>
@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iposho&theme=github" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=iposho&theme=github" />
 </p>
